@@ -22,7 +22,7 @@ The goal is to transform raw transactional data into actionable business insight
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](preview superstoreanalys.png)
 
 ---
 
